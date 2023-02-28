@@ -1,0 +1,11 @@
+D:\VS Projects\Pedroza_MissU\bin\Debug\Pedroza_MissU.exe.config
+D:\VS Projects\Pedroza_MissU\bin\Debug\Pedroza_MissU.exe
+D:\VS Projects\Pedroza_MissU\bin\Debug\Pedroza_MissU.pdb
+D:\VS Projects\Pedroza_MissU\obj\Debug\Pedroza_MissU.csproj.AssemblyReference.cache
+D:\VS Projects\Pedroza_MissU\obj\Debug\Pedroza_MissU.csproj.SuggestedBindingRedirects.cache
+D:\VS Projects\Pedroza_MissU\obj\Debug\Pedroza_MissU.Form1.resources
+D:\VS Projects\Pedroza_MissU\obj\Debug\Pedroza_MissU.Properties.Resources.resources
+D:\VS Projects\Pedroza_MissU\obj\Debug\Pedroza_MissU.csproj.GenerateResource.cache
+D:\VS Projects\Pedroza_MissU\obj\Debug\Pedroza_MissU.csproj.CoreCompileInputs.cache
+D:\VS Projects\Pedroza_MissU\obj\Debug\Pedroza_MissU.exe
+D:\VS Projects\Pedroza_MissU\obj\Debug\Pedroza_MissU.pdb
